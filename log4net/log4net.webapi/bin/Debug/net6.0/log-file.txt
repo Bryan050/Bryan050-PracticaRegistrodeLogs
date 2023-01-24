@@ -1,0 +1,67 @@
+2023-01-20 11:53:43,740 INFO Microsoft.Hosting.Lifetime.? [?] - Mensaje: Now listening on: https://localhost:7000
+2023-01-20 11:53:43,825 INFO Microsoft.Hosting.Lifetime.? [?] - Mensaje: Now listening on: http://localhost:5000
+2023-01-20 11:53:43,837 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Application started. Press Ctrl+C to shut down.
+2023-01-20 11:53:43,843 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Hosting environment: Development
+2023-01-20 11:53:43,846 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Content root path: C:\Users\almac\Desktop\SEPTIMO SEMESTRE\Desarrollo de Software Seguro\Segundo Parcial\Prácticas\log4net\log4net.webapi\
+2023-01-20 11:54:39,200 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 11:55:34,976 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 11:56:12,837 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 11:56:15,873 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 11:56:18,288 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 11:56:18,410 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 11:56:18,540 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 11:56:18,646 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 11:56:18,878 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 11:57:58,104 INFO Microsoft.Hosting.Lifetime.? [?] - Mensaje: Now listening on: https://localhost:7000
+2023-01-20 11:57:58,225 INFO Microsoft.Hosting.Lifetime.? [?] - Mensaje: Now listening on: http://localhost:5000
+2023-01-20 11:57:58,244 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Application started. Press Ctrl+C to shut down.
+2023-01-20 11:57:58,255 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Hosting environment: Development
+2023-01-20 11:57:58,259 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Content root path: C:\Users\almac\Desktop\SEPTIMO SEMESTRE\Desarrollo de Software Seguro\Segundo Parcial\Prácticas\log4net\log4net.webapi\
+2023-01-20 11:58:05,242 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 11:59:27,698 INFO Microsoft.Hosting.Lifetime.? [?] - Mensaje: Now listening on: https://localhost:7000
+2023-01-20 11:59:27,831 INFO Microsoft.Hosting.Lifetime.? [?] - Mensaje: Now listening on: http://localhost:5000
+2023-01-20 11:59:27,848 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Application started. Press Ctrl+C to shut down.
+2023-01-20 11:59:27,857 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Hosting environment: Development
+2023-01-20 11:59:27,863 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Content root path: C:\Users\almac\Desktop\SEPTIMO SEMESTRE\Desarrollo de Software Seguro\Segundo Parcial\Prácticas\log4net\log4net.webapi\
+2023-01-20 11:59:37,373 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:18:08,635 INFO Microsoft.Hosting.Lifetime.? [?] - Mensaje: Now listening on: https://localhost:7000
+2023-01-20 12:18:08,702 INFO Microsoft.Hosting.Lifetime.? [?] - Mensaje: Now listening on: http://localhost:5000
+2023-01-20 12:18:08,713 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Application started. Press Ctrl+C to shut down.
+2023-01-20 12:18:08,719 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Hosting environment: Development
+2023-01-20 12:18:08,722 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Content root path: C:\Users\almac\Desktop\SEPTIMO SEMESTRE\Desarrollo de Software Seguro\Segundo Parcial\Prácticas\log4net\log4net.webapi\
+2023-01-20 12:18:18,899 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:21:06,798 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:21:18,934 INFO Microsoft.Hosting.Lifetime.? [?] - Mensaje: Now listening on: https://localhost:7000
+2023-01-20 12:21:19,010 INFO Microsoft.Hosting.Lifetime.? [?] - Mensaje: Now listening on: http://localhost:5000
+2023-01-20 12:21:19,022 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Application started. Press Ctrl+C to shut down.
+2023-01-20 12:21:19,029 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Hosting environment: Development
+2023-01-20 12:21:19,033 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Content root path: C:\Users\almac\Desktop\SEPTIMO SEMESTRE\Desarrollo de Software Seguro\Segundo Parcial\Prácticas\log4net\log4net.webapi\
+2023-01-20 12:21:26,328 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:21:27,827 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:21:28,880 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:22:55,548 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:22:56,579 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:23:05,041 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:23:06,014 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:23:06,149 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:23:06,371 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:23:14,387 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:23:14,486 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:23:14,654 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:23:14,798 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:23:15,026 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:25:32,615 INFO Microsoft.Hosting.Lifetime.? [?] - Mensaje: Now listening on: https://localhost:7000
+2023-01-20 12:25:32,676 INFO Microsoft.Hosting.Lifetime.? [?] - Mensaje: Now listening on: http://localhost:5000
+2023-01-20 12:25:32,689 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Application started. Press Ctrl+C to shut down.
+2023-01-20 12:25:32,695 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Hosting environment: Development
+2023-01-20 12:25:32,698 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Content root path: C:\Users\almac\Desktop\SEPTIMO SEMESTRE\Desarrollo de Software Seguro\Segundo Parcial\Prácticas\log4net\log4net.webapi\
+2023-01-20 12:25:40,065 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 12:25:41,513 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 13:33:36,321 INFO Microsoft.Hosting.Lifetime.? [?] - Mensaje: Now listening on: https://localhost:7000
+2023-01-20 13:33:36,402 INFO Microsoft.Hosting.Lifetime.? [?] - Mensaje: Now listening on: http://localhost:5000
+2023-01-20 13:33:36,411 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Application started. Press Ctrl+C to shut down.
+2023-01-20 13:33:36,419 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Hosting environment: Development
+2023-01-20 13:33:36,421 INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - Mensaje: Content root path: C:\Users\almac\Desktop\SEPTIMO SEMESTRE\Desarrollo de Software Seguro\Segundo Parcial\Prácticas\log4net\log4net.webapi\
+2023-01-20 13:33:51,729 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 13:33:53,549 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()
+2023-01-20 13:37:23,361 INFO log4net.webapi.Controllers.WeatherForecastController.Get [24] - Mensaje: Se llamó al método GET()

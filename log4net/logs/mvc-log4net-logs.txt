@@ -1,0 +1,8 @@
+2023-01-20 14:43:07,979 INFO log4net.mvc.Startup.Configuration [12] - Mensaje: info
+2023-01-20 14:43:24,474 INFO log4net.mvc.Startup.Configuration [12] - Mensaje: info
+2023-01-20 14:47:19,463 INFO log4net.mvc.Startup.Configuration [12] - Mensaje: Se llamó al método Startup()
+2023-01-20 15:13:18,781 INFO log4net.mvc.Startup.Configuration [12] - Mensaje: Se llamó al método Startup()
+2023-01-20 15:13:27,749 INFO log4net.mvc.Controllers.AccountController.Login [62] - Mensaje: Se llamó al método Login(string returnUrl)
+2023-01-20 15:13:34,162 INFO log4net.mvc.Controllers.AccountController.Register [145] - Mensaje: Se llamó al método Register()
+2023-01-24 07:48:03,269 INFO log4net.mvc.Startup.Configuration [12] - Mensaje: Se llamó al método Startup()
+2023-01-24 07:48:40,008 INFO log4net.mvc.Controllers.AccountController.Register [145] - Mensaje: Se llamó al método Register()

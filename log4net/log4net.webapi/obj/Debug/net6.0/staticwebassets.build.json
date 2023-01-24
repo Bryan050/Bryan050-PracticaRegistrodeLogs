@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zC/++EL30/yurP1YJPkC1R4OkroNcAl9W7lLQzFXP2w=",
+  "Source": "log4net.webapi",
+  "BasePath": "_content/log4net.webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

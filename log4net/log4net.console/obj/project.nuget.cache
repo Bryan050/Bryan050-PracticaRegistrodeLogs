@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/0U+mNB5WPjBDpZuibnCDx5JmXXVKLBEA97fZ+XbkwZPmdR6QzZL/xhmOzmoSTpFKjJz/ZIxO+InzX1mr6jrug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\almac\\Desktop\\SEPTIMO SEMESTRE\\Desarrollo de Software Seguro\\Segundo Parcial\\Prácticas\\log4net\\log4net.console\\log4net.console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\almac\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
+    "C:\\Users\\almac\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\almac\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\almac\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\almac\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\almac\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\almac\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
